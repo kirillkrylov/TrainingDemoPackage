@@ -1,0 +1,20 @@
+﻿{
+  "Descriptor": {
+    "UId": "ce0d6c9e-e72a-9739-2bdc-5e665c0f6990",
+    "Name": "TrainingDemoPackage",
+    "ModifiedOnUtc": "\/Date(1610984437000)\/",
+    "Maintainer": "Customer",
+    "DependsOn": [
+      {
+        "UId": "2fabaf6c-0f92-4530-aef8-40345c021da2",
+        "PackageVersion": "7.8.0",
+        "Name": "ProductCore"
+      },
+      {
+        "UId": "fe1effeb-74f2-42c5-b5e1-dfe0313b86bf",
+        "PackageVersion": "7.8.0",
+        "Name": "Studio"
+      }
+    ]
+  }
+}
